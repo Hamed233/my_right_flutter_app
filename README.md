@@ -1,16 +1,14 @@
-# my_right
+# My Right App
 
-A new Flutter project.
+I created this application to help shop owners control their customers and know the amount paid and remaining for each purchase.
 
-## Getting Started
+## Screens
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<p>
+<img src="https://github.com/Hamed233/my_right_flutter_app/blob/main/screens/Screenshot_1663772753.png" alt="screen" width="200">
+<img src="https://github.com/Hamed233/my_right_flutter_app/blob/main/screens/Screenshot_1663772758.png" alt="screen" width="200">
+<img src="https://github.com/Hamed233/my_right_flutter_app/blob/main/screens/Screenshot_1663772876.png" alt="screen" width="200">
+<img src="https://github.com/Hamed233/my_right_flutter_app/blob/main/screens/Screenshot_1663772882.png" alt="screen" width="200">
+<img src="https://github.com/Hamed233/my_right_flutter_app/blob/main/screens/Screenshot_1663772910.png" alt="screen" width="200">
+<img src="https://github.com/Hamed233/my_right_flutter_app/blob/main/screens/Screenshot_1663772922.png" alt="screen" width="200">
+</p>
